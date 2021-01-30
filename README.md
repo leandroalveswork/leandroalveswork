@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **leandroalveswork/leandroalveswork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Leandro Alves Fonseca
+> Web Developer
+
+- 🚀 Habilidades: HTML, CSS, Javascript, ReactJS, Node.js , C#, ASP.NET Core
+- 🎓 Cursando: Análise e Desenvolvimento de Sistemas (FATEC)
+- 📚 Estudando: Angular 8, Bootstrap 4
+- 🚀 Projetos práticos com o framework React e ASP.Net Core
+
+- 🎓 Veja meu aprendizado na plataforma Digital Innovation One:
+
+https://web.digitalinnovation.one/users/leandroalves?tab=achievements
