@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Leandro Alves Fonseca
 > Web Developer
 
-- 🚀 Habilidades: HTML, CSS, Javascript, ReactJS, Node.js , C#, ASP.NET Core
+- 🚀 Habilidades: HTML, CSS, Javascript, ReactJS, Node.js, C#, ASP.NET Core
 - 🎓 Cursando: Análise e Desenvolvimento de Sistemas (FATEC)
 - 📚 Estudando: Angular 8, Bootstrap 4
 - 🚀 Projetos práticos com o framework React e ASP.Net Core
